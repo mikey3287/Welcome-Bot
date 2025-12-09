@@ -1,0 +1,9 @@
+{
+    "welcome_channel": "welcome",
+    "goodbye_channel": "goodbye",
+    "mod_log_channel": "mod-log",
+    "min_account_age": 2,
+    "auto_role_new": "",
+    "admin_roles": "Admin",
+    "allowed_servers": []
+}
